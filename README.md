@@ -18,7 +18,7 @@ Além disso, o projeto inclui:
 ### Passo a Passo
 1. Clone este repositório:
 ```bash
-git clone [https://github.com/krkaynan/calculadora_streamlit.git]
+git clone https://github.com/krkaynan/calculadora_streamlit.git
 cd calculadora-imc
 ```
 2. Crie um ambiente virtual (opcional, mas recomendado):
